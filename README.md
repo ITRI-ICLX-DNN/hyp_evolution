@@ -9,3 +9,5 @@
 ## 2.根據需求修改
 
    training.py      <----- 輸出的結果為一項，所以讀取值時，為i+1
+   
+![image](https://github.com/ITRI-ICLX-DNN/hyp_evolution/blob/main/1.JPG)
