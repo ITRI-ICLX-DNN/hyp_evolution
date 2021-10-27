@@ -19,7 +19,7 @@ utils/metrics.py  <-----  根據輸出的結果，為結果賦予權重
 utils/general.py
 ![image](https://github.com/ITRI-ICLX-DNN/hyp_evolution/blob/main/3.JPG)
 
-
+## 3.輸出結果
 結果保存在evolve.png，下方每一個圖代表一個Hyperparameter。參數當前值對應在 x 軸上，fitness對應在 y 上。
 最佳的參數保存在hyp_evolved.yaml檔案中<br>
 
